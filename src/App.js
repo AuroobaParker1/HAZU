@@ -4,7 +4,7 @@ import './App.css';
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Shop from './components/pages/Shop';
-import Products from './components/pages/Product';
+import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
 import Blog from './components/pages/Blog';
 
