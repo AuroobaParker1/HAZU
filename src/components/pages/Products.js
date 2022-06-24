@@ -13,14 +13,7 @@ export default function Products() {
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1">
-                <div class="filter-control">
-                    <ul>
-                        <li class="active">Clothings</li>
-                        <li>HandBag</li>
-                        <li>Shoes</li>
-                        <li>Accessories</li>
-                    </ul>
-                </div>
+
                 <div class="product-slider owl-carousel">
                     <div class="product-item">
                         <div class="pi-pic">
@@ -119,14 +112,6 @@ export default function Products() {
     <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8">
-                        <div class="filter-control">
-                            <ul>
-                                <li class="active">Clothings</li>
-                                <li>HandBag</li>
-                                <li>Shoes</li>
-                                <li>Accessories</li>
-                            </ul>
-                        </div>
                         <div class="product-slider owl-carousel">
                             <div class="product-item">
                                 <div class="pi-pic">

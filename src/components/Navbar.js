@@ -42,6 +42,7 @@ function Navbar() {
               className='footer-input'
               name='Search'
               type='text'
+              size='60'
               placeholder='eg : Nike'
             />
             <Button buttonStyle='btn--outline'>Search</Button>
